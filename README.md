@@ -1,6 +1,6 @@
 # drone_application
 
-A new Flutter project.
+DroneMed est une application mobile innovante conçue pour accompagner et superviser une plateforme de livraison autonome par drone, dédiée à la logistique médicale.
 
 ## Getting Started
 
