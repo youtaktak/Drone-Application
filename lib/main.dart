@@ -5,6 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'Pages/HomePage.dart';
+import 'Pages/PageMaps.dart';
 import 'Pages/PageProfile.dart';
 import 'Pages/Page_de_connexion.dart';
 import 'firebase_options.dart';

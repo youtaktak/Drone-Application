@@ -28,6 +28,11 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  google_maps_flutter: ^2.2.6
+  geolocator: ^10.0.0
+  permission_handler: ^11.4.0
+  flutter_map: ^4.0.0
+  latlong2: ^0.8.1
   flutter:
     sdk: flutter
   date_field: ^6.0.0
