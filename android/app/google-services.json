@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137928915151",
+    "project_id": "droneapplication-466a6",
+    "storage_bucket": "droneapplication-466a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137928915151:android:171633bf92841959985fba",
+        "android_client_info": {
+          "package_name": "com.example.drone_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOt0Mhxe7DWkGM4OdMIKy0SgS3sfwNkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
